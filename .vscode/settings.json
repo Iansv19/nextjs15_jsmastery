@@ -56,6 +56,6 @@
         "**/.next": true,
         "**/node_modules": true,
         "**/CVS": true,
-        "next-env.d.ts":true
+        "next-env.d.ts":true,
     }
 }
