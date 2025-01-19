@@ -50,6 +50,12 @@
 
     },
 
-    "typescript.tsdk": "node_modules/typescript/lib"
-
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.exclude": {
+        "**/.vscode": true,
+        "**/.next": true,
+        "**/node_modules": true,
+        "**/CVS": true,
+        "next-env.d.ts":true
+    }
 }
